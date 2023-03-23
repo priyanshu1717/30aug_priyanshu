@@ -1,0 +1,17 @@
+
+Name:priyanshu
+AGE:23
+DEPOSIT AMOUNT:20000
+-----------------------------
+Name:rajeshbhai
+AGE:67
+DEPOSIT AMOUNT:122222222
+-----------------------------
+Name:priyanshu
+AGE:22
+DEPOSIT AMOUNT:2222
+-----------------------------
+Name:jay
+AGE:22
+DEPOSIT AMOUNT:2222
+-----------------------------
